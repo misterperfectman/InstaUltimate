@@ -4,7 +4,7 @@ InstaUltimate
 
 Thank you for choosing InstaUltimate!
 
-In order for this shortcut to run smoothly, please run every function at least once and allow every service.
+In order for this shortcut to run smoothly, please run the shortcut at least once to allow every service (which is necessary).
 
 If you have some time, please consider leaving a message/feedback at the RoutineHub page of this shortcut (user/misterperfectman).
 
