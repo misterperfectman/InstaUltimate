@@ -1,0 +1,45 @@
+With the InstaUltimate shortcut you can view and download profile pictures, stories, and posts from all Instagram profiles (including private accounts) in different ways.
+
+
+ [Share button within in Instagram]
+ ————————————————
+Yes, the best feature of this shortcut! You can download a profile picture (also from private accounts), story or full Instagram post of a specific user within the Instagram app! Just click on a random post of a specific Instagram user and press the three dots “(•••)”, after that press “Share with” and run the InstaUltimate shortcut.
+
+
+ [Favorites]
+ —————
+With the favorites option you can easily download profile pictures and stories from your favorite Instagram users!
+
+How to make/edit a list?
+Go to the main menu where all your shortcuts are located and press the three dots “(•••)” in the upper right corner of the InstaUltimate shortcut. Then, press the three dots “(•••)” again and click on “Customize shortcut”.
+
+
+ [Username]
+ —————
+Here you can either paste an Instagram URL or manually enter a username.
+
+
+ [Clipboard]
+ —————
+A handy and fast option! Within Instagram you can copy both the URL of a post and the URL of an Instagram profile (press “(•••)” at the top right of a post or profile). In short, if you enter a URL of a post you will see the post and you can download it, and if you enter the URL of a profile you will be given the choice to download the profile picture or story of that Instagram profile.
+
+
+ [Recents]
+ ————
+See all your recent searches and make new searches with them, and if necessary, delete them all.
+
+
+ [Private Accounts]
+ —————————
+To download media from a private Instagram account, open up Safari (make sure that you are logged in to Instagram within Safari) and go to the post you are trying to download. Then, simply press the share button next to the book symbol and run the InstaUltimate shortcut.
+
+To download a story from a private Instagram account, open up Safari (make sure that you are logged in to Instagram within Safari) and view the story you are trying to download. Then, simply press the share button next to the book symbol and run the InstaUltimate shortcut.
+
+
+ [How do I download?]
+ ——————————
+After the shortcut has found everything you were looking for, you will see the photos or videos on your screen. Then, select the media you would like to save.
+
+
+
+If the post contains more than 1 image/video, then load every post by clicking on the right arrow and stop at the last one.
