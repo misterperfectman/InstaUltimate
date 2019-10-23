@@ -1,0 +1,1 @@
+{"First":"<span id=\"react-root\"","Last":"<\/section><\/span>","RegEx":"(?<=type=\"video\\\/mp4\" src=\").*?(?=\")","Replace":"&amp;"}
