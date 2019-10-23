@@ -1,4 +1,4 @@
-PhotoPost={"First":"<link rel=\"stylesheet\"","Last":";<\/script>","RegEx":"(?<=\",\"display_url\":\").*?(?=\")","Replace":"\\u0026"}
+"PhotoPost":{"First":"<link rel=\"stylesheet\"","Last":";<\/script>","RegEx":"(?<=\",\"display_url\":\").*?(?=\")","Replace":"\\u0026"}
 
 VideoPost={"First":"<span id=\"react-root\"","Last":"<\/section><\/span>","RegEx":"(?<=type=\"video\\\/mp4\" src=\").*?(?=\")","Replace":"&amp;"}
 
