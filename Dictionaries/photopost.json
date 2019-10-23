@@ -1,0 +1,1 @@
+{"First":"<link rel=\"stylesheet\"","Last":";<\/script>","RegEx":"(?<=\",\"display_url\":\").*?(?=\")","Replace":"\\u0026"}
