@@ -1,0 +1,1 @@
+{"First":"preload=","Last":" type=“video\/mp4;","RegEx":"(?<=\\w\"><source src=\").*?(?=\")","Replace":"&amp;"}
